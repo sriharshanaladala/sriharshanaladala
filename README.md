@@ -1,5 +1,5 @@
-### Hi there 👋 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello, I'm sri harsha. open to work!" src="./assets_1/Sri harsha.gif" /></a></p>
+### Hi there 👋 iam
+<p align="left"><a href="https://anuraghazra.github.io"><img width="50%" alt="Hello, I'm sri harsha. open to work!" src="./assets_1/Sri harsha.gif" /></a></p>
 
 <br />
 <!--

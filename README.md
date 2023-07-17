@@ -1,5 +1,7 @@
-### Hi there 👋 iam sri
+### Hi there 👋 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm sri harsha. open to work!" src="./assets/gh-readme-header.png" /></a></p>
 
+<br />
 <!--
 **sriharshanaladala/sriharshanaladala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

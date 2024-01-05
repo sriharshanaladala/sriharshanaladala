@@ -1,5 +1,5 @@
 ### Hi there 👋 iam
-<p align="left"><a href="https://www.linkedin.com/in/naladala-sriharsha-18aa60169/"><img width="50%" alt="Hello, I'm sri harsha. open to work!" src="./assets_1/Sri harsha.gif" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/naladala-sriharsha-18aa60169/"><img width="25%" alt="Hello, I'm sri harsha. open to work!" src="./assets_1/Sri harsha.gif" /></a></p>
 
 <br />
 <!--

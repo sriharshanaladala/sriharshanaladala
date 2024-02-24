@@ -2,11 +2,6 @@
 <p align="left"><a href="https://www.linkedin.com/in/naladala-sriharsha-18aa60169/"><img width="25%" alt="Hello, I'm sri harsha. open to work!" src="./assets_1/Sri harsha.gif" /></a></p>
 
 <br />
-<!--
-**sriharshanaladala/sriharshanaladala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <h1 align="center">Hi 👋, I'm sriharsha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
